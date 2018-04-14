@@ -1,5 +1,8 @@
 # ansible-role-template
 
+References:
+[1] : http://docs.ansible.com/ansible/latest/user_guide/playbooks_reuse_roles.html
+
 Role Name
 =========
 
